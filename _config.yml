@@ -1,7 +1,7 @@
 site: Duet Jekyll Theme
 
 url: http://mareksmidrkal.cz/
-baseurl: anotherbrick/
+baseurl: 
 
 collections:
   pages:
