@@ -1,7 +1,7 @@
-site: Duet Jekyll Theme
+site: Marek Šmidrkal
 
 url: http://mareksmidrkal.cz
-baseurl: 
+baseurl: /anotherbrick
 
 collections:
   pages:
