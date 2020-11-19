@@ -5,7 +5,7 @@ description: Duet is a beautiful Jekyll portfolio theme.
 featured_image: /images/demo/demo-landscape.jpg
 ---
 
-![obrázek prdu](/images/demo/demo-landscape.jpg)
+![obrázek prdu]({{site.baseurl}}/images/demo/demo-landscape.jpg)
 
 ## Features
 
