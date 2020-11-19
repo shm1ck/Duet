@@ -1,7 +1,7 @@
 site: Marek Šmidrkal
 
 url: http://mareksmidrkal.cz
-baseurl: /anotherbrick
+baseurl:
 
 collections:
   pages:
