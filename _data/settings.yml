@@ -75,8 +75,8 @@ color_settings:
 
 font_settings:
   font_embed: '<link rel="stylesheet" href="https://use.typekit.net/eer6xbt.css">'
-  title_font: 'adelle, serif'
-  body_font: 'adelle-sans, sans-serif'
+  title_font: 'adelle-sans, sans-serif'
+  body_font: 'adelle, serif'
   regular_weight: 400
   bold_weight: 600
   site_title:
