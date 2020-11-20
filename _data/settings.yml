@@ -80,11 +80,11 @@ font_settings:
   regular_weight: 400
   bold_weight: 600
   site_title:
-    small_size: 25
-    medium_size: 30
-    large_size: 35
+    small_size: 22
+    medium_size: 26
+    large_size: 28
     weight: 700
-    letter_spacing: 0
+    letter_spacing: 0.06
   menu:
     small_size: 30
     medium_size: 15
