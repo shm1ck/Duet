@@ -43,6 +43,13 @@ You can also change more advanced things here like the path names, collections e
 
 ---
 
+### What I've changed
+If you want skip intro (title and subtitle) put in front matter: `layout: pagenointro`
+Title and subtitle in thumbnail: `title:` and `subtitle`
+Title and subtitle in page: `title-page:` and `subtitle-page`
+
+---
+
 ### The `settings.yml` file
 
 You'll find this inside the `_data` folder – this is where you can set all of the theme options.
