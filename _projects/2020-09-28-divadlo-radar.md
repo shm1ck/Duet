@@ -34,10 +34,10 @@ featured_image: '/images/divadlo-radar/01.jpg'
 
 ![Webové stránky Divadla Radar](/images/divadlo-radar/02.jpg)
 
-Navrhl jsem i grafickou úpravu stávajícího webu divadla.
+Navrhl jsem i&nbsp;grafickou úpravu stávajícího webu divadla.
 
 ---
 
-Také potřebujete vytvořit logo a vizuální identitu?
+Také potřebujete vytvořit logo a&nbsp;vizuální identitu?
 
 <a href="/kontakt" class="button button--large">Pojďme tvořit!</a>

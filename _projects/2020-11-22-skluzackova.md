@@ -19,6 +19,6 @@ featured_image: '/images/skluzackova/01-thumb.jpg'
 
 ---
 
-Také potřebujete webové stránky?
+Také potřebujete vytvořit webové stránky?
 
 <a href="/kontakt" class="button button--large">Pojďme na to!</a>

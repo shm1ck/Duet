@@ -24,6 +24,24 @@ body {
 
 // - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Typography
 
+@font-face {
+  font-family: NC-Fontina;
+  src: url(NCFontina-Regular.woff2);
+  font-weight: 400;
+}
+
+@font-face {
+  font-family: NC-Fontina;
+  src: url(NCFontina-Semibold.woff2);
+  font-weight: 600;
+}
+
+@font-face {
+  font-family: NC-Fontina;
+  src: url(NCFontina-bold.woff2);
+  font-weight: 700;
+}
+
 h1, h2, h3, h4, h5, h6 {
 	font-family: $title-font;
 	color: $text-dark-color;
@@ -196,7 +214,7 @@ blockquote {
 a {
 	text-decoration: none;
 	color: $text-dark-color;
-	font-weight: $bold-weight;
+	font-weight: $a-weight;
 	@include transition(all 0.15s ease-in-out);
 
 	&:hover {
