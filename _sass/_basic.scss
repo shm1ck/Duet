@@ -36,12 +36,6 @@ body {
   font-weight: 600;
 }
 
-@font-face {
-  font-family: NC-Fontina;
-  src: url(NCFontina-bold.woff2);
-  font-weight: 700;
-}
-
 h1, h2, h3, h4, h5, h6 {
 	font-family: $title-font;
 	color: $text-dark-color;
