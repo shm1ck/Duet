@@ -170,7 +170,7 @@ ul, ol {
 
 blockquote {
 	margin-top: 15px;
-	border-left: 2px solid $text-dark-color;
+	border-left: 0px solid $text-dark-color;
 	padding: 10px 0 10px 20px;
 	font-size: $blockquote-small;
 	font-weight: $blockquote-weight;
@@ -178,13 +178,13 @@ blockquote {
 	line-height: $blockquote-lineheight;
 
 	@include mq(tabletp) {
-		border-left-width: 3px;
+		border-left-width: 0px;
 		padding: 15px 0 15px 30px;
 		font-size: $blockquote-medium;
 	}
 
 	@include mq(laptop) {
-		border-left-width: 4px;
+		border-left-width: 0px;
 		padding: 20px 0 20px 40px;
 		font-size: $blockquote-large;
 	}

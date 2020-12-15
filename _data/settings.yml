@@ -10,7 +10,7 @@ menu_settings:
   menu_items:
     - title: 'Práce'
       url: '/'
-    - title: 'Kontakt'
+    - title: 'O mně'
       url: '/kontakt'
 
 footer_settings:
@@ -154,9 +154,9 @@ font_settings:
     small_size: 25
     medium_size: 35
     large_size: 45
-    weight: 400
+    weight: 600
     letter_spacing: -0.02
-    line_height: 1.6
+    line_height: 1.2
   buttons:
     weight: 600
     letter_spacing: 0

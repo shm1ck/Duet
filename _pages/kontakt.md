@@ -10,6 +10,17 @@ layout: pagenointro
 
 ---
 
+## Služby
++ DTP (sazba, obrazová postprodukce)
++ Tvorba vizuální identity
++ UX/UI
++ Video postprodukce & motion design
+
+Nástroje: Adobe CC, Figma
+
+---
+
+## CV
 + 2017&ndash;nyní [Supraphon](https://www.supraphon.cz/archivy-katalogy) (dtp)
 + 2017&ndash;2020 [Studio Toman Design](http://www.toman-design.com) (dtp)
 + 2013&ndash;2016 [Ministerstvo obrany ČR](http://www.army.cz) (kameraman, střihač)
@@ -25,3 +36,5 @@ Baví mě stále objevovat, učit se novým věcem a&nbsp;zdokonalovat své dove
 + Reklamní retuše u&nbsp;[Stanislava Petery](https://www.stanislavpetera.com/)
 + [After Effects: Motion graphics &&nbsp;Data Visualisation](https://www.udemy.com/share/101WFmAkAccVZaTXo=/)
 + [Adobe InDesign: Advanced Training Course](https://www.udemy.com/share/101WwkAkAccVZaTXo=/)
+
+Svoje znalosti sdílím s ostatními: [blog DTP manuál](http://shm1ck.github.io/blog)

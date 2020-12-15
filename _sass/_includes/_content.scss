@@ -75,11 +75,12 @@
 
 	blockquote,
 	figure {
-		max-width: 90%;
+		max-width: 60%;
 		margin: 20px auto;
 
 		@include mq(tabletp) {
 			margin: 30px auto;
+			max-width: 70%;
 		}
 
 		@include mq(laptop) {

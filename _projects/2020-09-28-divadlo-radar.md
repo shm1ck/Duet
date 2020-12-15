@@ -21,20 +21,20 @@ featured_image: '/images/divadlo-radar/01.jpg'
   <img src="/images/divadlo-radar/loga/08.jpg">
 </div>
 
----
+![](/images/divadlo-radar/03.jpg)
 
-<div class="gallery" data-columns="1">
-  <img src="/images/divadlo-radar/03.jpg">
-  <img src="/images/divadlo-radar/04.jpg">
-  <img src="/images/divadlo-radar/05.jpg">
-  <img src="/images/divadlo-radar/06.jpg">
+![](/images/divadlo-radar/04.jpg)
+
+![](/images/divadlo-radar/05.jpg)
+
+![](/images/divadlo-radar/06.jpg)
+
+<div class="gallery" data-columns="2">
+  <img src="/images/divadlo-radar/07.jpg">
+  <img src="/images/divadlo-radar/08.jpg">
 </div>
 
----
-
-![Webové stránky Divadla Radar](/images/divadlo-radar/02.jpg)
-
-Navrhl jsem i&nbsp;grafickou úpravu stávajícího webu divadla.
+![](/images/divadlo-radar/02.jpg)
 
 ---
 
