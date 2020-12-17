@@ -10,6 +10,8 @@ featured_image: '/images/skluzackova/01-thumb.jpg'
 
 [skluzackova.com](http://www.skluzackova.com)
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dWXRc9AHuRI?controls=0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 ![](/images/skluzackova/01.jpg)
 
 <div class="gallery" data-columns="2">

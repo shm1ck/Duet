@@ -1,0 +1,14 @@
+p.portfolio-item-descp {
+  margin-top: -3px;
+  font-size: 10px;
+
+  @include mq(tabletp) {
+    margin-top: -8px;
+    font-size: 16px;
+  }
+
+  @include mq(laptop) {
+    margin-top: -9px;
+    font-size: 18px;
+  }
+}
