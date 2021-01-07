@@ -12,3 +12,11 @@ p.portfolio-item-descp {
     font-size: 18px;
   }
 }
+
+h4 {
+  @include mq(tabletp) {
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: clip;
+  }
+}
