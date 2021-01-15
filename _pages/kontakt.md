@@ -37,4 +37,4 @@ Baví mě stále objevovat, učit se novým věcem a&nbsp;zdokonalovat své dove
 + [After Effects: Motion graphics &&nbsp;Data Visualisation](https://www.udemy.com/share/101WFmAkAccVZaTXo=/)
 + [Adobe InDesign: Advanced Training Course](https://www.udemy.com/share/101WwkAkAccVZaTXo=/)
 
-Svoje znalosti sdílím s ostatními: [blog DTP manuál](http://shm1ck.github.io/blog)
+Svoje znalosti sdílím s ostatními: [blog DTP manuál](http://blog.mareksmidrkal.cz)
