@@ -11,14 +11,14 @@ featured_image: '/images/divadlo-radar/01.jpg'
 ![](/images/divadlo-radar/logo.gif)
 
 <div class="gallery" data-columns="4">
-  <img src="/images/divadlo-radar/loga/01.jpg">
-  <img src="/images/divadlo-radar/loga/02.jpg">
-  <img src="/images/divadlo-radar/loga/03.jpg">
-  <img src="/images/divadlo-radar/loga/04.jpg">
-  <img src="/images/divadlo-radar/loga/05.jpg">
-  <img src="/images/divadlo-radar/loga/06.jpg">
-  <img src="/images/divadlo-radar/loga/07.jpg">
-  <img src="/images/divadlo-radar/loga/08.jpg">
+  <img src="/images/divadlo-radar/loga/01.png">
+  <img src="/images/divadlo-radar/loga/02.png">
+  <img src="/images/divadlo-radar/loga/03.png">
+  <img src="/images/divadlo-radar/loga/04.png">
+  <img src="/images/divadlo-radar/loga/05.png">
+  <img src="/images/divadlo-radar/loga/06.png">
+  <img src="/images/divadlo-radar/loga/07.png">
+  <img src="/images/divadlo-radar/loga/08.png">
 </div>
 
 ![](/images/divadlo-radar/03.jpg)
