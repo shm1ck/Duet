@@ -2,7 +2,7 @@
 title: 'Pracoval jsem mnoho'
 subtitle: 'DTP'
 title-page: 'Pavla Pečinková: Pracoval jsem mnoho'
-subtitle-page: 'Humpolecká <a href="https://8smicka.com/josef-capek/">8smička</a> vydavatelsky zastřešila jedinečný publikační projekt: soupis výtvarného díla Josefa Čapka, nazvaný Pracoval jsem mnoho. Ve studiu <a href="http://www.toman-design.com">Toman Design</a> navrhli grafiku a&nbsp;já jsem dostal na starost DTP prvního a druhého dílu (kresba a&nbsp;užitá kresba). I&nbsp;já jsem pracoval mnoho: soupis prvních dvou svazků má dohromady 5 245 položek a&nbsp;to nepočítáme obrazový materiál z&nbsp;textových a&nbsp;obrazových částí...'
+subtitle-page: 'Humpolecká <a href="https://8smicka.com/josef-capek/">8smička</a> vydavatelsky zastřešila jedinečný publikační projekt: soupis výtvarného díla Josefa Čapka, nazvaný Pracoval jsem mnoho. Ve studiu <a href="http://www.toman-design.com">Toman Design</a> navrhli grafiku a&nbsp;já jsem dostal na starost DTP prvního a druhého dílu (kresba a&nbsp;užitá kresba). I&nbsp;já jsem pracoval mnoho: soupis prvních dvou svazků má dohromady 5&nbsp;245 položek a&nbsp;to nepočítáme obrazový materiál z&nbsp;textových a&nbsp;obrazových částí...'
 date: 2018-11-22 00:00:00
 description: Pavla Pečinková, Pracoval jsem mnoho.
 featured_image: '/images/pracoval-jsem-mnoho/01b.jpg'

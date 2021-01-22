@@ -2,7 +2,7 @@
 title: 'Malířka Petra Skluzáčková'
 subtitle: 'Webové stránky'
 title-page: 'Webová prezentace malířky Petry Skluzáčkové'
-subtitle-page: 'Petra je malířka na volné noze. Vytvořil jsem pro ni webové portfolio, které ukazuje průřez její tvorbou.'
+subtitle-page: 'Petra je malířka na volné noze. Vytvořil jsem pro ni webové portfolio, které ukazuje průřez její tvorbou. Začali jsme prototypem, který nám pomohl zrychlit doladění detailů a&nbsp;následně jsem nakódoval statickou prezentaci.'
 date: 2018-11-22 00:00:00
 description: Webová prezentace malířky Petry Skluzáčkové.
 featured_image: '/images/skluzackova/01-thumb.jpg'

@@ -47,7 +47,12 @@
 
 		@include mq(laptop) {
 			max-width: 60%;
+			padding-right: 150px;
 		}
+
+    @include mq(desktop) {
+      padding-right: 200px;
+    }
 	}
 
 	hr {

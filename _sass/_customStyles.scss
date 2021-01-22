@@ -18,3 +18,29 @@ h4 {
     overflow: hidden;
     text-overflow: clip;
 }
+
+.single {
+
+  h1, h2, h3, h4, h5, h6, p, ul, ol {
+
+    @include mq(laptop) {
+      padding-right: 150px;
+    }
+
+    @include mq(desktop) {
+      padding-right: 300px;
+    }
+  }
+}
+
+
+h1, h2, h3, h5, h6, p, ul, ol {
+
+  @include mq(laptop) {
+    padding-right: 150px;
+  }
+
+  @include mq(desktop) {
+    padding-right: 300px;
+  }
+}
