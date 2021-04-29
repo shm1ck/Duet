@@ -21,15 +21,16 @@ Nástroje: Adobe CC, Figma
 ---
 
 ## CV
-+ 2017&ndash;nyní [Supraphon](https://www.supraphon.cz/archivy-katalogy) (dtp)
++ 2021&ndash;nyní [Studio Marvil](https://marvil.cz/) (dtp)
 + 2017&ndash;2020 [Studio Toman Design](http://www.toman-design.com) (dtp)
++ 2017&ndash;nyní [Supraphon](https://www.supraphon.cz/archivy-katalogy) (dtp)
 + 2013&ndash;2016 [Ministerstvo obrany ČR](http://www.army.cz) (kameraman, střihač)
 + 2012&ndash;2017 [Muzeum a obrazárna Špejchar Želeč](http://spejcharzelec.cz) (grafik)
 + 2012&ndash;2013 [Clue magazine](http://shm1ck.github.io/clue-magazine) (dtp)
 + 2008&ndash;2011 [VOŠ grafická, Hellichova, Praha](https://www.hellichovka.cz/) (studium)
 
 ## Vybraní klienti
-8smička, Aperio, Běžíliška, Coffee&nbsp;Source, Česká&nbsp;centra, Hotel&nbsp;Josef, Lékaři bez&nbsp;hranic, Luhačovice, Sandoz, Y&nbsp;Soft
+8smička, Aperio, Běžíliška, Coffee&nbsp;Source, Česká&nbsp;centra, Divadlo X10, Hotel&nbsp;Josef, Lékaři bez&nbsp;hranic, Y&nbsp;Soft
 
 ## Vzdělávám se
 Baví mě stále objevovat, učit se novým věcem a&nbsp;zdokonalovat své dovednosti. Kurzy, které jsem absolvoval:
