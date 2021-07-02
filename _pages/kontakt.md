@@ -24,17 +24,10 @@ Nástroje: Adobe CC, Figma
 + 2021&ndash;nyní [Studio Marvil](https://marvil.cz/) (dtp)
 + 2017&ndash;2020 [Studio Toman Design](http://www.toman-design.com) (dtp)
 + 2013&ndash;2016 [Ministerstvo obrany ČR](http://www.army.cz) (kameraman, střihač)
-+ 2012&ndash;2017 [Muzeum a obrazárna Špejchar Želeč](http://spejcharzelec.cz) (grafik)
 + 2012&ndash;2013 [Clue magazine](http://shm1ck.github.io/clue-magazine) (dtp)
 + 2008&ndash;2011 [VOŠ grafická, Hellichova, Praha](https://www.hellichovka.cz/) (studium)
 
 ## Vybraní klienti
-8smička, Aperio, Běžíliška, Coffee&nbsp;Source, Česká&nbsp;centra, Divadlo X10, Hotel&nbsp;Josef, Lékaři bez&nbsp;hranic, Supraphon
-
-## Vzdělávám se
-Baví mě stále objevovat, učit se novým věcem a&nbsp;zdokonalovat své dovednosti. Kurzy, které jsem absolvoval:
-+ Reklamní retuše u&nbsp;[Stanislava Petery](https://www.stanislavpetera.com/)
-+ [After Effects: Motion graphics &&nbsp;Data Visualisation](https://www.udemy.com/share/101WFmAkAccVZaTXo=/)
-+ [Adobe InDesign: Advanced Training Course](https://www.udemy.com/share/101WwkAkAccVZaTXo=/)
+8smička, Běžíliška, Coffee&nbsp;Source, Divadlo X10, Hotel&nbsp;Josef, Lékaři bez&nbsp;hranic, Supraphon, Špejchar Želeč
 
 Svoje znalosti sdílím s ostatními: [blog DTP manuál](http://blog.mareksmidrkal.cz)
