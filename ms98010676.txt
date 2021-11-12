@@ -1,0 +1,5 @@
+﻿{
+  "Description": "Soubor pro ověření vlastnictví domény pro Microsoft 365 – umístěte do kořenového adresáře webu.",
+  "Domain": "mareksmidrkal.cz",
+  "Id": "a6523194-83ed-457c-95fd-610bc47c9ddd"
+}
