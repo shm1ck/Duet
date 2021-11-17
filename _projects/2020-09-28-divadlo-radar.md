@@ -4,11 +4,11 @@ subtitle: 'Vizuální identita'
 date: 2020-09-28 00:00:00
 description: Vizuální identita Divadla Radar
 title-page: Divadlo Radar
-subtitle-page: Divadlo Radar se více jak třicet let věnuje dramatické výchově dětí a&nbsp;mládeže. Kromě toho funguje jako amatérské repertoárové divadlo. V&nbsp;Radaru působí osm souborů. Vytvořil jsem základní logo pro divadlo, dále pak systém personalisovaných log pro jednotlivé soubory.
+subtitle-page: Divadlo Radar se více jak třicet let věnuje dramatické výchově dětí a&nbsp;mládeže. Kromě toho funguje jako amatérské repertoárové divadlo. V&nbsp;Radaru působí osm souborů. Vytvořil jsem základní logo pro divadlo a systém personalisovaných log pro jednotlivé soubory.
 featured_image: '/images/divadlo-radar/01.jpg'
 ---
 
-![](/images/divadlo-radar/logo.gif)
+![Logo Divadla Radar](/images/divadlo-radar/logo.gif)
 
 <div class="gallery" data-columns="4">
   <img src="/images/divadlo-radar/loga/01.png">
