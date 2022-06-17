@@ -2,7 +2,7 @@
 title: 'Pracoval jsem mnoho'
 subtitle: 'DTP'
 title-page: 'Pavla Pečinková: Pracoval jsem mnoho'
-subtitle-page: 'Humpolecká <a href="https://8smicka.com/josef-capek/">8smička</a> vydavatelsky zastřešila jedinečný publikační projekt: soupis výtvarného díla Josefa Čapka, nazvaný Pracoval jsem mnoho. Ve studiu <a href="http://www.toman-design.com">Toman Design</a> navrhli grafiku a&nbsp;já jsem dostal na starost DTP prvního a druhého dílu (kresba a&nbsp;užitá kresba). I&nbsp;já jsem pracoval mnoho: soupis prvních dvou svazků má dohromady 5&nbsp;245 položek a&nbsp;to nepočítáme obrazový materiál z&nbsp;textových a&nbsp;obrazových částí...'
+subtitle-page: 'Humpolecká <a href="https://8smicka.com/josef-capek/">8smička</a> vydavatelsky zastřešila jedinečný publikační projekt: soupis výtvarného díla Josefa Čapka, nazvaný Pracoval jsem mnoho. Ve studiu <a href="http://www.toman-design.com">Toman Design</a> navrhli grafiku a&nbsp;já jsem dostal na starost DTP prvního a druhého dílu (kresba a&nbsp;užitá kresba). I&nbsp;já jsem pracoval mnoho: soupis prvních dvou svazků má dohromady 5&nbsp;246 položek a&nbsp;to nepočítáme obrazový materiál z&nbsp;textových a&nbsp;obrazových částí...'
 date: 2018-11-22 00:00:00
 description: Pavla Pečinková, Pracoval jsem mnoho.
 featured_image: '/images/pracoval-jsem-mnoho/01b.jpg'
@@ -26,6 +26,8 @@ featured_image: '/images/pracoval-jsem-mnoho/01b.jpg'
 ## Soupis díla Josefa Čapka
 
 Josef Čapek skutečně pracoval mnoho, proto soupis celého díla je rozdělen do čtyř publikací. Každá obsahuje dva fyzické svazky. První s&nbsp;textovou a&nbsp;obrazovou částí a&nbsp;druhý se samotným soupisem, který obsahuje sirkové náhledy jednotlivých položek. Prolistovat si textovou část prvního dílu <a href="https://issuu.com/8smicka/docs/pracoval-jsem-mnoho-dil-i-kresba-blok-1-99-jednost">můžete tady</a> a&nbsp;ukázka druhého dílu je <a href="https://issuu.com/8smicka/docs/capek2-issuu/2">zde.</a> Více informací o&nbsp;tomto projektu najdete na [stránkách vydavatele.](https://8smicka.com/josef-capek/)
+
+Soupis je dostupný také v online webové aplikaci na adrese <a href="https://www.josefcapek.online/cs">josefcapek.online</a>. 
 
 ---
 
