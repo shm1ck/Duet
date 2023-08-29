@@ -34,9 +34,9 @@ Soupis je dostupný také v online webové aplikaci na adrese <a href="https://w
 Doposud vyšlo:
 + Díl první: Kresba (2019)
 + Díl druhý: Užitá kresba (2020)
++ Díl třetí: Malba (2023)
 
 A ještě vyjde:
-+ Díl třetí: Malba (2022)
 + Díl čtvrtý: Grafika (2023)
 
 ---

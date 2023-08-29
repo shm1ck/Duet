@@ -5,28 +5,32 @@ description: Marek Šmidrkal, grafik. Pojďme vytvořit něco skvělého!
 featured_image: /images/kontakt/01.jpg
 layout: pagenointro
 ---
+Jsem grafik z Litoměřic a přes deset let se zabývám grafickým designem. Pro jednotlivce, firmy i kulturní organizace navrhuji knihy, katalogy, vizuály či weby nebo jim pomáhám s předtiskovou přípravou (DTP), pokud již grafiku navrženou mají. Na téma DTP jsem psal [blog DTP manuál](http://blog.mareksmidrkal.cz). Mám také zkušenosti ze dvou pražských grafických studií [Toman Design](http://www.toman-design.com) a [Marvil](https://marvil.cz/), se kterým spolupracuji dodnes.
+
+---
 
 # m.smidrkal@gmail.com <br />+420 776 305 211
-Pojďme nezávazně prodiskutovat, jestli jsem ten pravý pro váš projekt. 
 
 ---
 
 ## Nabízím grafické služby
-+ DTP (předtisková příprava, sazba, obrazová postprodukce)
-+ Tvorba vizuální identity
-+ UX/UI
-+ Video postprodukce & motion design
++ Grafické návrhy tiskovin
++ Tvorba loga a jednotného vizuálního stylu
++ Šablony pro kancelářské programy MS Office
++ Šablony pro tvorbu příspěvků na sociální sítě
++ Motion design, zpracování videa
++ Obrazová postprodukce (úprava fotografií)
++ Návrhy webových stránek
 
 ---
-<!--
-## CV
-+ 2021&ndash;nyní [Studio Marvil](https://marvil.cz/) (dtp)
-+ 2017&ndash;2020 [Studio Toman Design](http://www.toman-design.com) (dtp)
-+ 2013&ndash;2016 [Ministerstvo obrany ČR](http://www.army.cz) (kameraman, střihač)
-+ 2012&ndash;2013 [Clue magazine](http://shm1ck.github.io/clue-magazine) (dtp)
-+ 2008&ndash;2011 [VOŠ grafická, Hellichova, Praha](https://www.hellichovka.cz/) (studium)
--->
-## Vybraní klienti
-8smička, Běžíliška, Coffee&nbsp;Source, Divadlo X10, Lékaři bez&nbsp;hranic, Supraphon
 
-Svoje znalosti sdílím s ostatními: [blog DTP manuál](http://blog.mareksmidrkal.cz)
+## Vybrané reference
+
+**Na volné noze**<br>
+Divadlo X10, Hotel Perk, Santigi, Špejchar Želeč, Supraphon
+
+**Studio Marvil**<br>
+dh architekti, Heureka Group, Národní muzeum, PPF, Správa železnic, Ravak
+
+**Studio Toman Design**<br>
+8smička, Coffee Source, Crestyl, Lékaři bez hranic, Y Soft

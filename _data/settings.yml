@@ -10,6 +10,8 @@ menu_settings:
   menu_items:
     - title: 'Práce'
       url: '/'
+    - title: 'DTP manuál'
+      url: 'http://blog.mareksmidrkal.cz'
     - title: 'O mně'
       url: '/kontakt'
 
