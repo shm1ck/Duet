@@ -4,7 +4,7 @@ subtitle: 'Grafický manuál'
 date: 2020-09-28 00:00:00
 description: Manuál jednotného vizuálního stylu označení a prezentace staveb Správy železnic
 title-page: Manuál jednotného vizuálního stylu označení a prezentace staveb Správy železnic
-subtitle-page: Správa železnic se pořád v něčem vrtá, něco opravuje a vylepšuje. Výsledkem je mnoho staveb na železnici, jejichž výsledek sice v budoucnu usnadní cestování vlakem, ale v průběhu stavby je tomu přesně naopak. Z tohoto důvodu ve Studiu Marvil navrhly grafickou podobu prezentace staveb, aby cestující věděl, co mu daná stavba v budoucnu přinese a nemusel tak težce nést daná omezení.
+subtitle-page: Správa železnic se pořád v něčem vrtá, něco opravuje a vylepšuje. Díky tomu se na železnici provádí mnoho staveb, jejichž výsledek sice v budoucnu usnadní cestování vlakem, ale v průběhu stavby je tomu přesně naopak. Z tohoto důvodu ve Studiu Marvil navrhly grafickou podobu prezentace staveb, aby cestující věděl, co mu daná stavba v budoucnu přinese a nemusel tak težce nést daná omezení.
 featured_image: '/images/sz/sz_thumb.jpg'
 ---
 
