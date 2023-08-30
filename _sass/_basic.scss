@@ -400,6 +400,10 @@ section {
 	@include mq(laptop) {
 		max-width: 60%;
 	}
+
+        @include mq(desktop) {
+		max-width: 1200px;
+	}
 }
 
 
